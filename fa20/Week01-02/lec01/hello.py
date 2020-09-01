@@ -1,3 +1,7 @@
 print("Hello world!")
+print("Bye now!")
 
-print("Hello again")
+x = 12
+y = x**2
+
+print(x,y)

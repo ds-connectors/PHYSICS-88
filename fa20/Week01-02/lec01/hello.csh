@@ -2,6 +2,4 @@
 
 echo "Hello world!"
 
-echo "Hellow again"
-
-echo "and again"
+echo "Hello again"
